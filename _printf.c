@@ -1,9 +1,5 @@
 #include "main.h"
 
-/**
- * include main file
- */
-
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
