@@ -1,8 +1,5 @@
 #include "main.h"
 
-/**
- * include main file
- */
 
 /************************* WRITE HANDLE *************************/
 /**
