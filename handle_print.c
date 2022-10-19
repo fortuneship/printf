@@ -1,8 +1,5 @@
 #include "main.h"
 
-/**
- * include main file
- */
 
 /**
  * handle_print - Prints an argument based on its type
